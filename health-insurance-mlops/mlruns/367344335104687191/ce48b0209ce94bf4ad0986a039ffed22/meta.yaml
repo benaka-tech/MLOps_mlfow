@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367344335104687191/ce48b0209ce94bf4ad0986a039ffed22/artifacts
+end_time: 1752997842960
+entry_point_name: ''
+experiment_id: '367344335104687191'
+lifecycle_stage: active
+run_id: ce48b0209ce94bf4ad0986a039ffed22
+run_name: hilarious-shrike-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752997836500
+status: 3
+tags: []
+user_id: codespace

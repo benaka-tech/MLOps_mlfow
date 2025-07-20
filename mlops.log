@@ -1,0 +1,9 @@
+2025-07-20 08:01:14,393 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 08:01:14,790 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 08:01:14,845 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T08:01:14.845297", "user_id": "training_service", "model_version": "new_training", "action": "training_start"}
+2025-07-20 08:01:17,914 - health_insurance_mlops - INFO - Training model
+2025-07-20 08:01:18,163 - health_insurance_mlops - INFO - Evaluating model
+2025-07-20 08:01:18,203 - health_insurance_mlops - INFO - Logging model artifacts
+2025-07-20 08:01:20,485 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T08:01:20.485087", "user_id": "training_service", "model_version": "run_id_734b22973d25454bbf9ce897f99a9798", "action": "training_complete"}
+2025-07-20 08:01:20,485 - health_insurance_mlops - INFO - Model training completed. Run ID: 734b22973d25454bbf9ce897f99a9798
+2025-07-20 08:01:20,485 - health_insurance_mlops - INFO - Model metrics: {'mse': 16361155.883100022, 'rmse': 4044.8925675597393, 'mae': 3353.2648239999985, 'r2': 0.7686487791506817}

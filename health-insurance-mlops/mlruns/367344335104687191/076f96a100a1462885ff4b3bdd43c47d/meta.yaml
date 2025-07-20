@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367344335104687191/076f96a100a1462885ff4b3bdd43c47d/artifacts
+end_time: 1752997712339
+entry_point_name: ''
+experiment_id: '367344335104687191'
+lifecycle_stage: active
+run_id: 076f96a100a1462885ff4b3bdd43c47d
+run_name: intelligent-flea-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752997712314
+status: 4
+tags: []
+user_id: codespace

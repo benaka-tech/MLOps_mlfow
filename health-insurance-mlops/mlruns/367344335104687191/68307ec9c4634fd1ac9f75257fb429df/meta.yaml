@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367344335104687191/68307ec9c4634fd1ac9f75257fb429df/artifacts
+end_time: 1752997847970
+entry_point_name: ''
+experiment_id: '367344335104687191'
+lifecycle_stage: active
+run_id: 68307ec9c4634fd1ac9f75257fb429df
+run_name: resilient-shad-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752997842994
+status: 3
+tags: []
+user_id: codespace

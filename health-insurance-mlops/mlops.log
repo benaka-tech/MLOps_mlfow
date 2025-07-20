@@ -1,0 +1,40 @@
+2025-07-20 07:46:38,534 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 07:46:39,000 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 07:46:39,001 - health_insurance_mlops - ERROR - Error in model training: Data file not found at /workspaces/MLOps_mlfow/health-insurance-mlops/data/health_claims.csv
+2025-07-20 07:48:31,788 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 07:48:32,217 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 07:48:32,324 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:48:32.324704", "user_id": "training_service", "model_version": "new_training", "action": "training_start"}
+2025-07-20 07:48:32,347 - health_insurance_mlops - ERROR - Error in model training: OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2025-07-20 07:50:36,117 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 07:50:36,456 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 07:50:36,512 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:50:36.512339", "user_id": "training_service", "model_version": "new_training", "action": "training_start"}
+2025-07-20 07:50:40,065 - health_insurance_mlops - INFO - Training model
+2025-07-20 07:50:40,379 - health_insurance_mlops - INFO - Evaluating model
+2025-07-20 07:50:40,411 - health_insurance_mlops - INFO - Logging model artifacts
+2025-07-20 07:50:42,959 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:50:42.959122", "user_id": "training_service", "model_version": "run_id_ce48b0209ce94bf4ad0986a039ffed22", "action": "training_complete"}
+2025-07-20 07:50:42,959 - health_insurance_mlops - INFO - Model training completed. Run ID: ce48b0209ce94bf4ad0986a039ffed22
+2025-07-20 07:50:42,959 - health_insurance_mlops - INFO - Model metrics: {'mse': 16361155.883100022, 'rmse': 4044.8925675597393, 'mae': 3353.2648239999985, 'r2': 0.7686487791506817}
+2025-07-20 07:50:42,977 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 07:50:42,988 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 07:50:43,007 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:50:43.007077", "user_id": "training_service", "model_version": "new_training", "action": "training_start"}
+2025-07-20 07:50:45,368 - health_insurance_mlops - INFO - Training model
+2025-07-20 07:50:45,596 - health_insurance_mlops - INFO - Evaluating model
+2025-07-20 07:50:45,629 - health_insurance_mlops - INFO - Logging model artifacts
+2025-07-20 07:50:47,970 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:50:47.970266", "user_id": "training_service", "model_version": "run_id_68307ec9c4634fd1ac9f75257fb429df", "action": "training_complete"}
+2025-07-20 07:50:47,970 - health_insurance_mlops - INFO - Model training completed. Run ID: 68307ec9c4634fd1ac9f75257fb429df
+2025-07-20 07:50:47,970 - health_insurance_mlops - INFO - Model metrics: {'mse': 16361155.883100022, 'rmse': 4044.8925675597393, 'mae': 3353.2648239999985, 'r2': 0.7686487791506817}
+2025-07-20 07:52:28,441 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 07:52:28,860 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 07:52:28,949 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:52:28.949795", "user_id": "training_service", "model_version": "new_training", "action": "training_start"}
+2025-07-20 07:52:31,991 - health_insurance_mlops - INFO - Training model
+2025-07-20 07:52:32,256 - health_insurance_mlops - INFO - Evaluating model
+2025-07-20 07:52:32,294 - health_insurance_mlops - ERROR - Error in model training: name 'pd' is not defined
+2025-07-20 07:54:56,453 - health_insurance_mlops - INFO - Starting model training process
+2025-07-20 07:54:56,732 - health_insurance_mlops - INFO - Loading and preprocessing data
+2025-07-20 07:54:56,796 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:54:56.795993", "user_id": "training_service", "model_version": "new_training", "action": "training_start"}
+2025-07-20 07:54:59,674 - health_insurance_mlops - INFO - Training model
+2025-07-20 07:54:59,917 - health_insurance_mlops - INFO - Evaluating model
+2025-07-20 07:54:59,948 - health_insurance_mlops - INFO - Logging model artifacts
+2025-07-20 07:55:02,489 - health_insurance_mlops - INFO - Model Access: {"timestamp": "2025-07-20T07:55:02.489139", "user_id": "training_service", "model_version": "run_id_b98c9ecea72742b9b0fe757d718ed592", "action": "training_complete"}
+2025-07-20 07:55:02,489 - health_insurance_mlops - INFO - Model training completed. Run ID: b98c9ecea72742b9b0fe757d718ed592
+2025-07-20 07:55:02,489 - health_insurance_mlops - INFO - Model metrics: {'mse': 16361155.883100022, 'rmse': 4044.8925675597393, 'mae': 3353.2648239999985, 'r2': 0.7686487791506817}
